@@ -1,0 +1,25 @@
+Categories:
+  - Exploitation
+  - WiFi
+License: Unknown
+AuthorName: TheMauSoft
+WebSite: https://www.themausoft.com/
+
+Name: WPSApp
+Summary: Check your WiFi's network security. Any intruders? WPS protocol
+
+RequiresRoot: true
+
+Binaries: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/WPSApp/WPSApp_v1.6.54.apk
+
+Builds:
+  - versionName: '1.6.54'
+    versionCode: 1654
+    binary: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/WPSApp/WPSApp_v1.6.54.apk
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: '1.6.54'
+CurrentVersionCode: 1654
+
+NoSourceSince: '1.6.54'
