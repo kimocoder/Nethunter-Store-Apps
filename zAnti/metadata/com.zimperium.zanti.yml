@@ -1,0 +1,26 @@
+Categories:
+  - Exploitation
+  - Sniffing & Spoofing
+  - WiFi
+License: Unknown
+AuthorName: Zimperium
+WebSite: https://www.zimperium.com/
+
+Name: zAnti
+Summary: Mobile penetration testing and security analysis tool 
+
+RequiresRoot: true
+
+Binaries: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/zAnti/zAnti3.19.apk
+
+Builds:
+  - versionName: '3.19'
+    versionCode: 319
+    binary: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/zAnti/zAnti3.19.apk
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: '3.19'
+CurrentVersionCode: 319
+
+NoSourceSince: '3.19'
