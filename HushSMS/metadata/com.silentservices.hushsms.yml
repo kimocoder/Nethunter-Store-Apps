@@ -1,0 +1,29 @@
+Categories:
+  - Development
+  - Utilities
+License: Unknown
+AuthorName: silentservices
+WebSite: https://github.com/V0lk3n/HushSMS
+
+Name: HushSMS
+Summary: Send messages that regularly only providers are able to send
+
+RequiresRoot: true
+
+Binaries: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/HushSMS/HushSMS_2.7.8.apk
+
+Builds:
+  - versionName: '2.7.7'
+    versionCode: 277
+    binary: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/HushSMS/HushSMS_2.7.7.apk
+    
+  - versionName: '2.7.8'
+    versionCode: 278
+    binary: https://github.com/V0lk3n/Nethunter-Store-Apps/raw/main/HushSMS/HushSMS_2.7.8.apk
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: '2.7.8'
+CurrentVersionCode: 278
+
+NoSourceSince: '2.7.7'
